@@ -7,6 +7,6 @@ Then, as you read the text, you add translations for individual words or phrases
 <br />
 These translated words can be hidden, displayed individually, or they can all be set to display.
 <br />
-![sample text](./docs/translation_01.png)
+![sample text](./translation_01.png)
 <br />
 <br />
